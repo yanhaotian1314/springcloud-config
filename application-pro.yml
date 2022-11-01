@@ -1,1 +1,2 @@
-spring: pro
+config:
+  info: pro

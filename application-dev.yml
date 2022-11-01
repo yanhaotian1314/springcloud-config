@@ -1,1 +1,2 @@
-spring: dev
+config:
+  info: dev
